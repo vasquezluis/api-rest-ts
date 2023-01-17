@@ -1,0 +1,18 @@
+# activar ts de manera global
+  - npm i typescript -g
+
+# instalar el modulo de ts para transpilar ts en node
+ - npm i ts-node -g
+
+# crear archivo de ts -> decirle a ts su configuracion para este proyecto
+ - tsc --init
+
+# iniciar proyecto de node
+ - npm init -y
+
+# instalar modulos necesarios
+ - npm i express cors dotenv multer mongoose 
+ - npm i nodemon -D
+
+# instalar paquetes de tipados para los modulos
+ - npm i @types/express @types/cors @types/dotenv @types/multer @types/mongoose -D
