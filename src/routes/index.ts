@@ -27,4 +27,4 @@ readdirSync(PATH_ROUTER).filter((fileName) => {
   }
 });
 
-export default Router;
+export { router };
