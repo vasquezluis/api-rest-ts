@@ -4,7 +4,7 @@ API REST project using TypeScript
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/vasquez-luis)
+- [@vasquezluis](https://www.github.com/vasquezluis)
 
 ## Run Locally
 
